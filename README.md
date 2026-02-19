@@ -1,2 +1,2 @@
-# Curso-de-C-
+# Curso Profesional de C++
 Curso profesional de C++ en espanol
